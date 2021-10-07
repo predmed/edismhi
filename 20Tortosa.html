@@ -1,0 +1,122 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+   <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+   <title>Homilía de Tortosa para la fiesta de todos los santos</title>
+   <meta http-equiv="Expires" content="0" />
+   <meta http-equiv="Last-Modified" content="0" />
+   <meta http-equiv="Cache-Control" content="no-cache, no-store, mustrevalidate" />
+   <meta http-equiv="Pragma" content="no-cache" />
+   <link rel="preconnect" href="https://fonts.gstatic.com">
+   <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap" rel="stylesheet">
+   <link rel="stylesheet" type="text/css" href="antocss.css">
+   <script> var elsermo="20Tortosa.xml"</script>
+   <script src="carregatext.js"></script>
+</head>
+<body style="background-image: url('paper3.jpg')" onload="carregatext()"> <!-- #ffe2d3 -->
+
+<h1><a href="http://predmed.upf.edu/edismhi.html" style="text-decoration:none; color: brown">Edición digital de sermones medievales hispanos</a></h1>
+
+<table style="border: none; font-size: small; margin: auto">
+	<tr><td colspan="3" style="text-align: center;">Gaudent in celis anime sanctorum qui Christi vestigia sunt seculi, et quia pro eius amore sanguinem suum fuderunt, ideo cum Christo exultant sine fine.</td></tr>
+	<tr><td colspan="3" style="text-align: center;">Tortosa, Arxiu capitular, ms. 106, 133v.-134v.</td></tr>
+	<tr>
+		<td><input type="button" id="mostrar" value="Más información" style="display:block; margin-left: auto; margin-right: auto; padding: 2px; border-radius: 4px; border: 2px solid grey;" onclick="mostrar()" />
+			   <input type="button" id="ocultar" value="Ocultar información" style="display:none; margin-left: auto; margin-right: auto; padding: 2px; border-radius: 4px; border: 2px solid grey;" onclick="ocultar()" />
+		</td>
+		<td><input type="button" id="showidx" value="Mostrar índice de contenidos" style="display:block; margin-left: auto; margin-right: auto; float: right; padding: 2px; border-radius: 4px; border: 2px solid grey;" onclick="showindex()" />
+			   <input type="button" id="hideidx" value="Ocultar índice de contenidos" style="display:none; margin-left: auto; margin-right: auto; float: right; padding: 2px; border-radius: 4px; border: 2px solid grey;" onclick="hideindex()" />
+		</td>
+		<td><input type="button" id="showoptns" value="Mostrar opciones de visualización de contenidos" style="display:block; margin-left: auto; margin-right: auto; float: right; padding: 2px; border-radius: 4px; border: 2px solid grey;" onclick="showoptions()" />
+			   <input type="button" id="hideoptns" value="Ocultar opciones de visualización de contenidos" style="display:none; margin-left: auto; margin-right: auto; float: right; padding: 2px; border-radius: 4px; border: 2px solid grey;" onclick="hideoptions()" />
+		</td>
+</tr>
+</table>
+
+<div id="info" style="display:none">
+<table style="border: none; font-size: small; margin: auto; width: 80%">
+	<tr><td style="width: 15%">Autor / predicador:</td><td style="width: 15%"> Anónimo</td><td style="width: 15%">Lugar de predicación:</td><td style="width: 15%"> Desconocido</td><td style="width: 23%">Fecha de predicación o redacción:</td><td style="width: 15%">Hacia 1200</td></tr>
+	<tr><td width="150" valign="top">Ediciones previas:</td><td colspan="5">Thomas, Antoine, «<a href="https://www.persee.fr/doc/anami_0003-4398_1897_num_9_36_3353" target="_blank">
+	Homélies provençales tirées d'un manuscrit de Tortosa</a>», <i>Annales du Midi</i>, 9, n. 36 (1897), p. 414- 416.</td></tr>
+	<tr><td width="150" valign="top"></td><td colspan="5">Moran i Ocerinjauregui, Josep, <i>Les homilies de Tortosa</i>. Barcelona, Curial y PAM, 1990, p. 118-19</td></tr>	
+	<tr><td valign="top">Introducción:</td><td colspan="5" style="text-align: justify">Junto a las Homilías de Organyà, las Homilías de Tortosa son uno de los primeros textos en lengua 
+	vernácula en la Península, en este caso de origen provenzal. El sermón seleccionado destaca por contener fragmentos narrativos, en concreto la historia de la cristianización del 
+	Panteón de Roma por san Bonifacio.</td></tr>
+	<tr><td valign="top">Bibliografía:</td><td colspan="5" style="text-align: justify">Moran i Ocerinjauregui, Josep, <i>Les homilies de Tortosa</i>. Barcelona, Curial y PAM, 1990</td></tr>
+</table>
+</div>
+<br>
+<div id="idx" style="display:none">
+<table style="border: none; font-size: small; text-align: center; margin: auto">
+<tr><td>
+	<form name="cercar">
+		<select id="opciones">
+			<option value="bible">Biblia cristiana</option>
+			<option value="christian">Otras fuentes cristianas</option>
+			<option value="muslim">Corán y fuentes musulmanas</option>
+			<option value="jewish">Biblia y fuentes hebreas</option>
+			<option value="other">Otras fuentes (clásicas...)</option>			
+			<option disabled style="background-color: black; color: white">--------------</option>
+			<option value="exemplum">Ejemplos</option>
+			<option value="distinctio">Distinctiones</option>
+			<option value="similitudo">Similitudines</option>
+			<option value="evidentia">Evidentiae</option>
+			<option value="quaestio">Quaestiones</option>
+			<option value="character">Personajes</option>
+			<option value="place">Lugares</option>
+			<option value="etim">Etimologías</option>
+		</select>
+		<input name="ind" id="ind" type="button" value="Buscar" onclick="indice()" />
+	</form>
+</td></tr>
+</table>
+</div>
+<p id="respind"></p>
+<div id="options" style="display:none">
+<table style="border: none; font-size: small; text-align: center; margin: auto">
+	<form>
+		<tr align="center">
+			<td>Fuentes:</td>
+			<td style="background-color: Silver">Biblia<input id="bible" name="bible" type="checkbox" value="Hide" onclick="bibles()" /></td>
+			<td style="background-color: Salmon">Otras fuentes cristianas<input id="christian" name="christian" type="checkbox" value="Hide" onclick="christians()" /></td>
+			<td colspan="2" style="background-color: #BDB76B">Corán y fuentes musulmanas<input id="muslim" name="muslim" type="checkbox" value="Hide" onclick="muslims()" /></td>
+			<td colspan="2" style="background-color: #808000">Biblia y fuentes hebreas<input id="jewish" name="jewish" type="checkbox" value="Hide" onclick="hebrews()"/></td>			
+			<td colspan="3" style="background-color: #CD853F">Otras fuentes<input id="other" name="other" type="checkbox" value="Hide" onclick="clasic()"/></td>
+		</tr>
+		<tr align="center">
+			<td>Contenidos:</td>
+		    <td style="background-color: Pink">Exempla<input id="exempla" name="exempla" type="checkbox" value="Hide" onclick="exemplae()" /></td>
+            <td style="background-color: LightGreen">Distinctiones<input id="distinctiones" name="distinctiones" type="checkbox" value="Hide" onclick="distinctio()" /></td>
+            <td style="background-color: Tan">Similitudines<input id="similitudines" name="similitudines" type="checkbox" value="Hide" onclick="similitudo()" /></td>
+			<td style="background-color: Lavender">Evidentiae<input id="evidentia" name="evidentia" type="checkbox" value="Hide" onclick="evident()"  /></td>
+			<td style="background-color: White">Quaestiones<input id="quaestio" name="quaestio" type="checkbox" value="Hide" onclick="quaestiones()"  /></td>
+            <td style="background-color: yellow">Personajes<input id="character" name="character" type="checkbox" value="Hide" onclick="personaje()" /></td>
+            <td style="background-color: DeepSkyBlue">Lugares<input id="places" name="places" type="checkbox" value="Hide" onclick="place()" /></td>
+            <td style="background-color: orange" colspan="2">Etimologías<input id="etimology" name="etimology" type="checkbox" value="Hide" onclick="etimologia()" /></td>
+          </tr>
+		  <tr align="center">
+		     <td>Otros datos:</td>
+			 <td style="background-color: Mediumorchid">Saltos<input id="pb" name="pb" type="checkbox" value="Hide" onclick="pagebreak()" /></td>
+ 			 <td style="background-color: seagreen">Pérdida de soporte<input id="perdida" name="perdida" type="checkbox" value="Hide" onclick="perdido()" /></td>
+ 			 <td style="background-color: powderblue">Tachado <input id="rayado" name="rayado" type="checkbox" value="Hide" onclick="tachado()" /></td>
+			 <td style="background-color: thistle">Ilegible<input id="ilegible" name="ilegible" type="checkbox" value="Show" onclick="illegible()" /></td>
+  			 <td style="background-color: rosybrown">Error del copista<input id="error" name="error" type="checkbox" value="Hide" onclick="errada()" /></td>
+  			 <td style="background-color: violet">Omitido<input id="omitido" name="omitido" type="checkbox" value="Hide" onclick="omitidos()" /></td>
+			 <td style="background-color: brown">Repetido<input id="repetido" name="repetido" type="checkbox" value="Hide" onclick="repetidos()" /></td>
+ 			 <td style="background-color: gold">Añadido<input id="afegit" name="afegit" type="checkbox" value="Hide" onclick="afegits()" /></td>
+ 			 <td style="background-color: crimson">Oculto<input id="oculto" name="oculto" type="checkbox" value="Hide" onclick="ocultos()" /></td>
+		  </tr>
+		  <tr><td colspan="7" style="text-align: center">Edición paleográfica (abreviaturas en cursiva; no corrige omisiones ni errores; no restaura texto perdido)<input id="abrev" name="abrev" type="checkbox" value="Hide" onclick="abreviat()" /></td>
+		  <td colspan="2" style="text-align: center">Aparato crítico<input id="apparat" name="apparat" type="checkbox" value="Hide" onclick="apparatus()" /></td></tr>
+ 	      <tr><td colspan="9" id="ww" style="vertical-align:top"></td></tr>
+	</form> 
+</table>
+</div>
+<br>
+<div style="position:absolute; width:97%; overflow:hidden; display: flex; justify-content: center; border: 0px; margin: 0 auto">
+   <div style="height: 400px; width:97%; overflow-y: auto; display: table-cell; margin: 0 auto">
+	  <table border="0" align="center"><tr><td id="aquiva" style="text-align:justify"></td></tr></table>
+   </div>
+</div>
+</body>
+</html>

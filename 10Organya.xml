@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Barcelona, Biblioteca de Catalunya, ms. 266, f. </title>
+				<author>Unknown</author>
+				<respStmt>
+					<resp>Text Encoding by </resp>
+					<name>Oriol Catalán</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Oriol Catalán</publisher>
+				<availability>
+					<p>Feel free to </p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<p></p>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<editorialDecl>
+				<p>Edición a partir de imagen digitalizada del original </p>
+			</editorialDecl>
+			<variantEncoding method="parallel-segmentation" location="internal"/>
+		</encodingDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<div>
+				<listWit>
+					<witness xml:id="A"></witness>
+				</listWit>
+			</div>
+		</front>
+		<body>
+		
+<div type="sermo" n="1">
+<p>[<cit type="bible" source="1Cor. 1, 13" title="1Cor. 1, 13"><supplied reason="lost">Si linguis hominum lo</supplied>]qar et angelo<expan>rum</expan>, karitate<expan>m</expan> 
+a<expan>utem</expan> n<expan>on</expan> ha<expan>beam</expan>,<lb /> [<supplied reason="lost">factus sum velut aes sonans aut cymbalum</supplied>] t<expan>inniens</expan>.</cit> 
+Senniors, aizò vol dir e mostrar<lb /> [<gap reason="lost" extent="half" unit="line">...</gap>] q<expan>e</expan> si om parlave tan gint co un<lb /> [<gap reason="lost" extent="half" unit="line">...</gap>] del món, 
+e ere cast e<supplied reason="omitted"> </supplied>abstine<expan>n</expan>t,<lb /> [<supplied reason="lost">mas caritad n</supplied>]o avie en él, no li tenrie prod a salva<lb />
+[<supplied reason="lost">ment</supplied>] [<gap reason="lost" extent="half" unit="line">...</gap>]
+ aitant co<expan>m</expan> lo seyn q<expan>i</expan><supplied reason="omitted"> </supplied>sona e<supplied reason="omitted">·</supplied>s trebala e a <lb />
+ [<supplied reason="lost">negú no té prod</supplied>] sinó ad aqels qui l'ozen. Atresí elex, tot<lb /> [<supplied reason="lost">qa</supplied>]nt om à ne qant 
+ diz ne fa en est segle, tot és vanitad <lb />[<supplied reason="lost">e no</supplied>] té negú prod a<supplied reason="omitted"> </supplied>icel q<expan>i</expan> caritad no à ab si,
+ si no la segex fidel<lb />[<supplied reason="lost">ment</supplied>]. P<expan>er</expan> zo dix sapi <index indexName="character"><term type="character">Salamó</term></index>: 
+ <cit type="bible" source="Eccl. 1, 2" title="Eccl. 1, 2">Vanitas 
+ vanita<expan>n</expan>cium et omnia vanitas<lb />[<gap reason="lost" extent="half" unit="line">...</gap>], set caritas nuncam excidit</cit>. Totes les coses del segle són <lb />
+ [<supplied reason="lost">va</supplied>]nitats e caden e tornen e<supplied reason="omitted">·</supplied>nient, mas 
+ carita<supplied>d</supplied> jamés no<lb /> cadrà, e<supplied reason="omitted"> </supplied>cels q<expan>i</expan> la seg<expan>i</expan>ran ja unq<expan>a</expan> no<supplied reason="omitted"> </supplied>i 
+ faliran. E p<expan>er</expan> zo, s<expan>einors</expan>, si<lb /><supplied reason="omitted">·</supplied>ns volem gardar de p<expan>er</expan>dic<expan>ió</expan> e de 
+ vanitad, obs avem a sab<expan>e</expan>r q<expan>è</expan> és caritad:<lb /> <cit type="christian" source="Gregorius, Homilía XXXVIII: In duobus praeceptis caritas habetur, in 
+ dilectione scilicet Dei et dilectione proximi. Gregorius Magnus. Homiliae in evangelia. Turnhout, Brepols 1999. CCSL 141, p. 369" title="Gregorius, Homilía XXXVIII: In duobus 
+ praeceptis caritas habetur, in dilectione scilicet Dei et dilectione proximi. Gregorius Magnus. Homiliae in evangelia. Turnhout, Brepols 1999. CCSL 141, p. 369">Karitas est dileccio 
+ Dei et proximi</cit>. Caritad és p<expan>rò</expan>priament q<expan>e</expan> om am <lb />D<expan>é</expan>u màs q<expan>e</expan> nula res, e tot c<expan>ri</expan>stià així co<expan>m</expan> 
+ si elex, fedelm<expan>en</expan>t. Aq<expan>ue</expan>sta é <lb />l'amor d<expan>e</expan> D<expan>é</expan>u e de 
+ tot c<expan>hri</expan>stià. P<expan>er</expan> zo à nom caritad, q<expan>a</expan>r D<expan>éu</expan>s és pus car <lb />q<expan>e</expan> nula res. Cel om à caritad 
+ en si a cui és pus car zo q<expan>ue</expan> pus<lb /> car li deu é<expan>ss</expan>er, zo és, D<expan>é</expan>u e l'esp<expan>i</expan>rit d'om, q<expan>i</expan> ja 
+ sempre durarà,<lb /> e totes altres coses te<expan>m</expan>porals p<expan>er</expan>iran. E p<expan>er</expan> aizò, s<expan>einors</expan>, p<expan>er</expan> les 
+ coses peridors<lb /> no vulams lo gog del durable paradís p<expan>er</expan>d<expan>r</expan>e, ni per les vanitats del<lb /><pb n="2r.">|<sup>2r.</sup></pb> secle, 
+ q<expan>i</expan> gian om a les penes d'infern, [<gap reason="blurred" extent="half" unit="line">...</gap>] [<supplied reason="blurred">cari</supplied>]<lb />tad, aqela 
+ q<expan>i</expan> gia om a la glòria de para<supplied reason="blurred">dís</supplied>[<gap reason="blurred" extent="half" unit="line">...</gap>] <lb />segirian 
+ caritad e aurian la amor de Déu[<gap reason="blurred" extent="half" unit="line" >...</gap>] <lb />la Sancta Scriptura, la q<expan>a</expan>l dix la propheta de Déu 
+ N<expan>ostre</expan> S<expan>enyor</expan>: «<cit type="bible" source="1Pt. 3, 11" title="1Pt. 3, 11"><supplied reason="blurred">Declinet a malo et faciat bonum, inquirat</supplied>
+ <lb /> p<expan>acem</expan> et s<expan>equatur</expan> eam</cit>». Zo dix: qe om se tola de mal [<gap reason="blurred" extent="half" unit="line">...</gap>]<a href="#" title="Molhó sugiere 'e pecad,'; Corominas, 'e·enquira pad,' mientras que Soberanas y Rossiñol no sugieren ninguna solución"><sup>1</sup></a>
+<lb /> e segesqe-la. Aicel om enquer pad e la segex q<expan>i</expan> no fa mal e perdona<lb /> a aqels qi mal li fan, per amor del N<expan>ostre</expan> S<expan>einor</expan>. 
+S<expan>einors</expan>, caritad és abstinència de<lb /> mal. Sapiatz, s<expan>einors</expan>, q<expan>e</expan> [<supplied reason="omitted">per</supplied>] zo apela o<expan>m</expan> l'asmosna 
+ caritad més q<expan>ue</expan> altra re,<lb /> q<expan>a</expan>r és onranza de D<expan>é</expan>u màs que nula res, q<expan>a</expan>r cel q<expan>ui</expan> dóna 
+ almosna<lb /> a son proxme fa bé e a Déu plader e amor e onranza, e Déus re<lb />drà'lls-en bo gadardó p<expan>er</expan>petual a ·C· dobles, e als bons e als mals,<lb /> 
+ d<expan>e</expan>l remedi d'infern e d<expan>e</expan> la glò<expan>r</expan>ia d<expan>e</expan> paradís. Sapiats, s<expan>einors</expan>, q<expan>e</expan> tot lo bé
+ <lb />q<expan>e</expan> om fa ni diz p<expan>er</expan> bo cor e p<expan>er</expan> pentència d<expan>e</expan> D<expan>é</expan>u, tot és caritat e 
+ sal<lb />vament d<expan>e</expan> l'ànima. E p<expan>er</expan> zo dix <index indexName="character"><term type="character">sent Paul</term></index> en la pístola 
+ q<expan>e</expan> nulla obra<lb /> no<expan>n</expan> és bona ni p<expan>er</expan>feita senes caritad. Zo és: cel q<expan>ui</expan> à caritad no<lb /> ret mal per mal, e 
+ cels q<expan>i</expan> estan mal fa avenir. E encara, aq<expan>e</expan>l<lb /> q<expan>i</expan> à caritad no à envega a nula re, e no mou barala a nul om,<lb /> e no mou 
+ barales entre uns frares e altres. Q<expan>i</expan> azò à no à ergul.<lb /> Q<expan>i</expan> caritad à no qer aqel[<supplied reason="omitted">e</supplied>]s coses qe sues són. 
+ Zo és, que no vol la vo<lb />lluntad d<expan>e</expan> la carn, mas solam<expan>en</expan>t d<expan>e</expan> l'ànima; zo és, que no à cor<lb /> e mal a fer, mas en segir 
+ dretura e veritad. Aq<expan>e</expan>l om, s<expan>einors</expan>, qui tem<lb /> la p<expan>er</expan>secuc<expan>ió</expan> 
+ del segle, sapiatz qe no à p<expan>er</expan>feita caritad, q<expan>a</expan>r qui à<lb /> caritad no à paor for de Déu. E encara sí dix 
+ <index indexName="character"><term type="character">sent Paul</term></index> en la<lb /> <pb n="2v.">|<sup>2v.</sup></pb> 
+  <supplied reason="blurred">pístola: </supplied><cit type="bible" source="1Cor. 13, 8" title="1Cor. 13, 8"> <supplied reason="blurred">Sive prophetiae 
+ evacuabuntur</supplied>, sive lingue sessabunt, sive<lb /> sciencie de<supplied reason="blurred">struentur</supplied></cit>. <supplied reason="blurred">Aizò vol dir</supplied> 
+ e mostrar qe totes les p<expan>ro</expan>phe<expan>cie</expan>s<lb /> cessaran e·l dia del judici: no serà d'aqí enant a 
+ predicar. En aqel loc<lb /> seran totes coses acabades; en aq<expan>e</expan>l loc cessaran les lenges de tuit;<lb /> en aquel loc serà lo sab<expan>er</expan> dels òmens destruit. 
+ <cit type="bible" source="1Cor. 13, 9" title="1Cor. 13, 9">Ex parte enim congno<lb />vim<expan>us</expan> et ex parte p<expan>ro</expan>ph<expan>et</expan>am<expan>us</expan></cit>: 
+ de la una part conoxem e de l'altra<lb /> p<expan>ro</expan>ph<expan>et</expan>am; zo és, que 
+ conoxem aq<expan>e</expan>st segle, q<expan>e</expan> és nient. Emp<expan>er</expan>ò, p<expan>ro</expan>fita<expan>m</expan> lo re<lb />gisme d<expan>e</expan> 
+ D<expan>é</expan>u, lo q<expan>a</expan>l és p<expan>er</expan>feita causa; e[<supplied reason="omitted">m</supplied>]però aq<expan>ue</expan>les coses q<expan>i</expan> 
+ són del segle<lb /> p<expan>er</expan>iran. 
+ <cit type="bible" source="1Cor. 13, 11" title="1Cor. 13, 11">Cu<expan>m</expan> essem parvulus, loq<expan>ue</expan>bar ut parvulus, sapiebam ut<lb /> parvulus, cogitaba<expan>m</expan> 
+ ut par[<supplied reason="omitted">v</supplied>]ulus</cit>. 
+ Q<expan>a</expan>n om és macip, penssa així<lb /> com macip, e sab així com macip; e emp<expan>er</expan>ò, q<expan>a</expan>n és feit hom, lex<lb /> 
+ aquel<supplied reason="lost">e</supplied>s coses q<expan>e</expan> són de macip. Moltes coses q<expan>e</expan> e[<supplied reason="omitted">n</supplied>] macipea 
+ à feites és<lb /> nient, q<expan>a</expan>r ja à om vergo<expan>n</expan>ia a dir zo q<expan>e</expan> dezie q<expan>a</expan>n ere macip.<lb /> Així serà 
+ aq<expan>e</expan>st segle vil envés aq<expan>e</expan>l q<expan>ue</expan> és a venir. Donches,<lb /> frares cars, ajam caritat vera senes ira, senes avarea, se<lb />nes 
+ urgul, senes mala cobeeza, p<expan>er</expan> zo q<expan>e</expan> la caritad de Déu sia<lb /> espandida e·ls n<expan>ost</expan>r<expan>e</expan>s 
+ cors. Q<expan>uod</expan> i<expan>pse</expan> p<expan>raestare</expan> d<expan>ignetur</expan> [<supplied reason="omitted">qui</supplied>] c<expan>um</expan> 
+ P<expan>atre</expan> [<supplied reason="omitted">vivit</supplied>]. </p>
+</div>
+</body>
+</text>
+</TEI>

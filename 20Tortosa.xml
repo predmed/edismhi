@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tortosa, Arxiu capitular, ms. 106, f. 133v.-134v.</title>
+				<author>Unknown</author>
+				<respStmt>
+					<resp>Text Encoding by </resp>
+					<name>Oriol Catalán</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Oriol Catalán</publisher>
+				<availability>
+					<p>Feel free to </p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<p></p>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<editorialDecl>
+				<p></p>
+			</editorialDecl>
+			<variantEncoding method="parallel-segmentation" location="internal"/>
+		</encodingDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<div>
+				<listWit>
+					<witness xml:id="A">Tortosa, Arxiu capitular, ms. 106, f. 133v.-134v.</witness>
+				</listWit>
+			</div>
+		</front>
+		<body>
+
+<div type="sermo" n="1">
+<p><div type="thema"></div></p>
+Sermo omnium sanctorum.<br/> 
+«<cit type="christian" source="Antífona para la fiesta de Todos los santos. Corpus antiphonalium officii III, 2927" title="Antífona para la fiesta de Todos los santos. Corpus 
+antiphonalium officii III, 2927">Gaudent in celis anime s<expan>anctorum</expan> q<expan>ui</expan> Chr<expan>isti</expan> vestigia su<expan>n</expan>t seculi, et q<expan>u</expan>ia 
+p<expan>ro</expan> ei<expan>u</expan>s amore sanguinem suu<expan>m</expan> fuderunt, ideo cu<expan>m</expan> Chr<expan>isto</expan> 
+exultant sine fine</cit>».<br/>
+Sennor, oi es la festa tan gloriosa e tan g<expan>ra</expan>ns con de N<expan>ost</expan>re S<expan>ennor</expan> e de la sua gloriosa mare <term type="character">N<expan>ost</expan>ra 
+Dona s<expan>anct</expan>a Maria</term>, e dels àngels del cel, e de totz los 
+sains e las s<expan>an</expan>c<expan>t</expan>as q<expan>ue</expan> foron d'<term type="character">Aza<expan>m</expan></term> en sa, e que seran tro a la fin de segle. Aq<expan>ue</expan>sta 
+festa fo p<expan>er</expan> aizò establida que si neguns hom avia peccat en las altres festas, que ben non las 
+agués faitas e gardadas, en aq<expan>ue</expan>sta se n'esmendés. Zo retrazon las istòrias romanas q<expan>ue</expan> <index indexName="exemplum" source="Històries Romanes" title="" ><term type="character">sains Bonefaci<expan>us</expan></term>, que fo le 
+quars apostolis de <term type="place">Roma</term> ap<expan>ro</expan>p 
+<term type="character">saint Gregori</term>, qu·es un temple que era en Roma [demanà] a l'emp<expan>er</expan>ador, a Foca cèsar, q<expan>ue</expan> lo li donés e faria'n gleisa, e sagraria-la ad onor de Déu e de tots los seus sainz. Et él dis [<supplied reason="omitted">que</supplied>] sí 
+faria volenters. Le te<expan>m</expan>ples si s'era molt vels, e encara o es. Grans <pb>|<sup>134r.</sup></pb> es e meravilós, que ben i cabrion plus de tria milia homes, et es tots redons. En aq<expan>ue</expan>st 
+temple solion far li pagà 
+lur sac<expan>r</expan>ifici, et avia laïns ydolas en q<expan>uè</expan> li diàbol parlavon a la gent e apelavon-lo <term type="place">Panteon</term>. Tots aq<expan>u</expan>els diàbols e totas las ydolas 
+gitet foras <term type="character">sain Bonifazis</term>, e sagret la gleisa, 
+sí con dig-vos ave<expan>m</expan>, a la onor de Deu e de toz los seus sainz. E coma<expan>n</expan>det q<expan>ue</expan> en <term type="place">Roma</term> e p<expan>er</expan> tot lo món 
+fezés hom oi la festa eixame<expan>n</expan>t con lo dia de Nadal.</index> 
+E ben la deu hom far en t<expan>er</expan>ra pos li àngel la fan e·l cel, con diz la Sc<expan>r</expan>iptura. «<cit type="christian" source="Introito de la misa de todos los santos" title="Introito de la misa de todos los santos" lang="latin">De 
+q<expan>u</expan>o<expan>rum</expan> solle<expan>m</expan>pnitate gaudent angeli et conlauda<expan>n</expan>t filium D<expan>e</expan>i</cit>». Et iterum: «<cit type="christian" source="Antífona para la fiesta de Todos los santos. Corpus antiphonalium officii III, 2927" title="Antífona 
+para la fiesta de Todos los santos. Corpus antiphonalium officii III, 2927" lang="latin">Gaudent in celis anime s<expan>an</expan>ctorum</cit>», et cet<expan>era</expan>. Zo diz li saint, q<expan>ue</expan> 
+N<expan>ostre</expan> S<expan>enyor</expan> seguiron se n'alegron 
+e·l cel. Així lo seguiron que il en foron escabezat e lapizat, e més en croz, et altres tormens assaz q<expan>ue</expan> hom no vos diz, e p<expan>er</expan> aizò en fo coronat dena<expan>n</expan>t 
+Déu. Molt és grans la festa d'oi e màger aq<expan>ue</expan>la de demà, dels morts. Tuit li saint e li just e li peccador, q<expan>ue</expan> són anat d'aq<expan>ue</expan>st segle, tuig receupron mort e tuig 
+atendero<expan>n</expan> demàn la m<expan>iseri</expan>c<expan>òr</expan>d<expan>i</expan>a de Déu, e cil q<expan>ue</expan> són en pena, e cil q<expan>ue</expan> són en repaus. Et establí p<expan>er</expan> 
+totas las gleisas del món q<expan>ue</expan> fos faita la festa de demàn e fo autrejada en <pb>|<sup>134v.</sup></pb> 
+<term type="place">Roma</term> e p<expan>er</expan> totas las t<expan>er</expan>ras. Aq<expan>ue</expan>sta nos no<expan>n</expan> la faim minga solame<expan>n</expan>t per n<expan>ost</expan>res 
+paires ni p<expan>er</expan> nostras maires, mais p<expan>er</expan> toz los sains e las santas del món 
+e de toz q<expan>ue</expan>ls que són anat d'aq<expan>u</expan>est segle. Sapiaz, sennor, q<expan>ue</expan> genta causa e ben estant és a cels que estàn en bonas obras, en almornas, en vigilias, en dejunis. 
+Ipsi sunt celebratores. Aicil són celebrador de festa. Sennor, de ben a far no<expan>n</expan> volgesez aver p<expan>re</expan>zicador, mais quex fos p<expan>re</expan>zicaire de l'altre de ben a far. 
+E p<expan>er</expan> aizò p<expan>re</expan>gue<expan>m</expan> N<expan>ostre</expan> S<expan>ennor</expan> q<expan>ue</expan> d'aital guisa nos faza colre e celebrar aq<expan>ue</expan>sta 
+festa e totas las altras en aq<expan>ue</expan>st segle, p<expan>er</expan> q<expan>uè</expan> en l'altre puscam venir al celestial regne. Quod ipse prestare nobis [<supplied reason="omitted">dignetur</supplied>].
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,135 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" encoding="UTF-8">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Anónimo de Pentecostés. Barcelona, ACA, manuscrits, Sant Cugat, ms. 62, f. 41r.</title><author>Bernat Oliver</author>
+				<respStmt><resp>Text Encoding by </resp><name>Oriol Catalán</name></respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Oriol Catalán</publisher>
+				<availability>This document is being made available under a Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License.</availability>
+			</publicationStmt>
+			<sourceDesc></sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<editorialDecl></editorialDecl>
+			<variantEncoding method="parallel-segmentation" location="internal"/>
+		</encodingDesc>
+	</teiHeader>
+	<text>
+		<front><div><listWit><witness xml:id="A">Barcelona, ACA, manuscrits, Sant Cugat, ms. 62, f. 41r..</witness></listWit></div></front>
+		<body>
+<div type="sermo" n="1">
+<p>... Sant yorn de Pasqua, en lo qual éls rasabren los X [<supplied reason="hidden" title="Oculto por la encuadernación">m</supplied>]anamens. Si dons és feta qüestió: <index indexName="quaestio">en quin temps la gràcia 
+[<supplied reason="hidden" title="Oculto por la encuadernación">del</supplied>] Sant Sperit és vanguda sobra 
+los apòstols?,</index> puch-vos [<supplied reason="hidden" title="Oculto por la encuadernación">r</supplied>]espondra ab bona veritat segons la paraula comanssada, scilicet: «<cit type="bible" source="Act. 2, 1" title="Act. 2, 1">
+[<supplied reason="hidden" title="Oculto por la encuadernación">C</supplied>]um conplerentur dies 
+Pentecoste</cit>», qui vol dir que com fossen [<supplied reason="hidden" title="Oculto por la encuadernación">pa</supplied>]ssats e acabats L yorns aprés de la festa [<supplied reason="omitted">de</supplied>] Pasqua, 
+en lo qual yorn lo dit poble faya la demondita festa [<supplied reason="hidden" title="Oculto por la encuadernación">e</supplied>] solempnitat, en lavons la 
+gràcia del Sant Sperit venc [<supplied reason="hidden" title="Oculto por la encuadernación">e</supplied>] devalà sobra lo[<supplied reason="omitted">s</supplied>] apòstols de Jhesucrist.<br/>
+Més avant, e segonament, e dit yo a vosaltres que en lo present [<supplied reason="hidden" title="Oculto por la encuadernación">sermó</supplied>] yo he a 
+declarar a vosaltres en quin dia la gràcia del Sant Sperit, la qual vuy celabram, és vanguda e devalada [<supplied reason="hidden" title="Oculto por la encuadernación">en</supplied>]
+los apòstols. E açí yo vos responch que en dicmenya. [<supplied reason="hidden" title="Oculto por la encuadernación">En</supplied>] dicmenya lo dit Sant Sperit és vengut e tramès en [<supplied reason="hidden" title="Oculto por la encuadernación">a</supplied>]quest 
+món. Mas fem questió: <index indexName="distinctio">per què mes en 
+dicmenya més que [<supplied reason="hidden" title="Oculto por la encuadernación">e</supplied>]n altre dia?</index> Responch-vos que <a href="#" title="Leer jatsesia">yad ça sia</a> que tots los 
+[<supplied reason="hidden" title="Oculto por la encuadernación">dies</supplied>] de la setmana sien sants e beneyts, emperò entre los 
+[<supplied reason="hidden" title="Oculto por la encuadernación">altres</supplied>] <add place="top" title="Añadido sobre la línia">lo dicmenya</add> és molt pus sant e pus digna que nagun altre dia.</p>
+<p>[<supplied reason="hidden" title="Oculto por la encuadernación">S</supplied>]obra declaració del qual partid devets notar e saber que [<supplied reason="hidden" title="Oculto por la encuadernación">a</supplied>]xí com 
+<del rend="strikethrough"> de la </del> en <add>la</add> sedmana ha VII dias, 
+axí dalt [<supplied>e</supplied>]n lo cel ha VII planetas, scilicet, lo Sol, la Luna, [<supplied reason="hidden" title="Oculto por la encuadernación">Mar</supplied>]tis, Mercuri, Júpiter, et cetera. E dien los naturals que 
+[<supplied reason="hidden" title="Oculto por la encuadernación">c</supplied>]ascun d’aquestas 
+planetas <del type="strikethrough">ha</del> ha singular influència [<gap reason="illegible">...</gap>] en alcun dia de la sedmana. E dien que lo [<supplied>S</supplied>]ol ha infloència 
+en lo dicmenya, e per tal lo dicmenya [<supplied reason="hidden" title="Oculto por la encuadernación">é</supplied>]s apellat lo dia del sol. Dien axí mateix que la Luna [<supplied reason="hidden" title="Oculto por la encuadernación">h</supplied>]a infloència al 
+diluns, e per ço lo diluns és axí apellat. [<supplied reason="hidden" title="Oculto por la encuadernación">Lo</supplied>] dimars ha influència de una planeta qui és apellat [<supplied reason="hidden" title="Oculto por la encuadernación">M</supplied>]artis, 
+e per ço és axí apellat. E via axí avem<pb>|<sup>41v. </sup></pb> dels altres dias de la sedmana. Dons lo dicmenya ha influència del Sol, e axí com lo Sol entra las altras planetas 
+[<supplied reason="hidden" title="Oculto por la encuadernación">és </supplied>] molt pus nobla e pus excelent, axí pròpiament entra tots los altras dias de la sedmana lo pus nobla e l[<supplied reason="hidden" title="Oculto por la encuadernación">o</supplied>] 
+pus excellent <add title="Añadido sobre la línia">és</add > lo <del rend="strikethrough">dic</del> sant dicmenya. Et enperamor d’a[<supplied reason="hidden" title="Oculto por la encuadernación">çò</supplied>], 
+la[<supplied reason="omitted">s</supplied>] pus notables <add title="Añadido sobre la línia">cosas</add> que Déu haya fetas en aquest món, ha f[<supplied reason="hidden" title="Oculto por la encuadernación">et</supplied>] 
+en dicmenyas. E apar bé, car lo primer dia que yamés Déu [<supplied reason="omitted">fes</supplied>] fon lo dicmenya. En dicmenya Déu volc nàxer del 
+[<supplied reason="omitted">ventre</supplied>] virginal de la sua beneyta mare. En dicmenya Déu vol[<supplied reason="hidden" title="Oculto por la encuadernación">c</supplied>] ressocitar 
+de mort a vida. En dicmenya axí mateix volc trametre la gràcia e benedicció del Sant Sperit sobra los apòstols. E tot açò sia quant al segon partid del nostre present sermó.<br/>
+Més avant, terserament e yo a declarar a vosaltres en [<supplied reason="omitted">quina</supplied>] hora lo Sant Sperit és vengut en los apòstols. 
+[<supplied reason="hidden" title="Oculto por la encuadernación">Res</supplied>]ponch-vos que a hora de tèrcia. Mas per què a hora de [tèrcia] més 
+que altra hora? <del rend="strikethrough">de tèrcia mes que altra hora</del> Res[<supplied reason="hidden" title="Oculto por la encuadernación">ponch</supplied>]-vos que a hora de tèrcia lo pecat e las tenebras 
+[<supplied reason="hidden" title="Oculto por la encuadernación">de</supplied>] ignorància entrà en lo món, scilicet com <term type="character">Adam</term> peccà, qui [era] a hora de tèrcia. Tot axí dons com Adam pecà 
+a [<supplied reason="hidden" title="Oculto por la encuadernación">hora</supplied>] de tèrcia, e per conssagüent lo peccat e la ignorància [<supplied reason="hidden" title="Oculto por la encuadernación">e</supplied>] ob[<supplied reason="hidden" title="Oculto por la encuadernación">s</supplied>]curadat 
+entra[<supplied reason="omitted">ren</supplied>] en lo món. Axí pròpiament a hora de tèrcia la gràcia del Sant Sperit devalà en a[<supplied reason="hidden" title="Oculto por la encuadernación">quest</supplied>] món, per 
+la qual las sanctas scripturas nos són clarificades, e per consagüent, la <del rend="strikethrough">gràcia del sant sperit</del> via e carrera de la nostra salvació nos és manifestad. Més 
+lo Sant Sperit és vengut a hora de tèrcia, per ço, com ya sabets, a hora de tèrcia la hora és escalfada e lo sol és ya en sa virtud. Axí pròpiament <pb>|<sup>42r. </sup></pb>. aquellas 
+que han la gràcia del Sant Sperit són molt [<supplied reason="hidden" title="Oculto por la encuadernación">e</supplied>]nflamats e escalfats en la amor e gràcia de Nostre Senyor. [<gap reason="lost">...</gap>]
+demostrar dons que lo Sant Sperit és vangut e devalat en hora de tèrcia. Diu sancta mare sgleya: «<cit type="christian" title="Himno litúrgico de la octava de Pentecostés">Dum hora 
+cunctis tertia, repente mundus intonat, orantibus apostolis, Deum venisse nuntiat</cit>» et cetera.</p>
+<p>Més avant, quartament, bona gent, he yo a declarar a vosaltres en quina guisa ne en quina manera la gràcia del Sant Sperit és venguda e devalada en los apòstols, sobre de la 
+[<gap reason="illegible">...</gap>], del qual partid devets notar e saber que per aytal dia [<gap reason="lost">...</gap>], hac VIII yorns lo Salvador Nostre Jhesuchrist, visibla 
+[<gap reason="illegible">...</gap>] devant la Verge, mare sua, e devant los altres apòstols [e] dexeblas seus, 
+se’n <add place="" title="Añadido sobre la línia">puyà dalt en lo cel</add>. E dementra que se’n dech puyar, él dix als seus apòstols e dexeblas: “Mos frares e germans, anats-vos-ne 
+a Jherusalem, e an aytal casa vosaltres siats aiustats, car [<supplied reason="hidden" title="Oculto por la encuadernación">en</supplied>] pochs dias yo·us trametré la virtud e la gràcia del Sant Sperit, lo qual de hòmens 
+fla[c]hs <add title="Añadido sobre la línia">e covarts e pahorosos</add> que vosaltres sots, vos fortificarà en la amor e gràcia de Déu. E de 
+hòmens ignorants e [<gap reason="lost">...</gap>] que vosaltres sots, serets il·luminats e grans clergues e doctós en los sacrets de la Sancta Scriptura”. E, de fet, éls se'n anaren en 
+aquella casa de Jherusalem que Jhesucrist lus diý, e [esti]gueren de aquel dia fins lo dia de vuy. E diu que staven primerament tots ajustats, a demostrar que si nosaltres volem haver la 
+gràcia del Sant Sperit, cové que siam ajustats, scilicet, que tots siam en bona pau e bona amor e bona fraternitat. No pas que siam divisats ne departits per odi ne rancor, ne mala 
+volentat. Item, més avant diu que sèyen, scilicet reposaven, a demostrar que si nosaltres volem haver la gràcia del Sant Sperit cové que raposem<pb>|<sup>42v.</sup></pb>. 
+So a saber, que no ho fassam axí com fan molts e moltes que hi ha, qui nunqua raposen, so a saber, nunqua cessen de portar lagoterias e de masclar barayles, divisions, zizània e altres 
+discòrdias. E aquests aytals, qui yamés no reposen, han tos temps tenen lo ofici del dimoni, yamés no haurien ne aconsaguirien la gràcia del Sant Sperit.<br/>
+Item, més avant diu que los dits apòstols deyonaven e preguaven Déu, e staven e[<supplied reason="hidden" title="Oculto por la encuadernación">n</supplied>] devota oració, sperant la gràcia del Sant Sperit, a demostrar 
+que si nosaltres volem haver ne aconsaguir lo Sant Sperit, cové que alcunes de vegades degam deyunar e fer alcuna penitència, car en loc qui sia ple per massa ingurgitació e soblafluytat 
+lo Sant Sperit no·y pot aturar. Item, cové, bona gent, que de vegades fassam alcuna devota oració. Car oració, bona gent, és una canal dreta qui se’n puya tot dret a Déu Pare per 
+aconsaguir la gràcia del Sant Sperit.<br/>
+Stant doncs axí los apòstols e dexebles de Jhesucrist ab la Verge Maria, qui ab éls ere, stant axí matex en lur oració e dejuni e devoció, veus que per aytal dia com vuy és, a hora de 
+tèrcia, sobra la casa en la qual eren los dits apòstols ab la Verge Maria, va desparar un gran tro [<supplied reason="hidden" title="Oculto por la encuadernación">e un</supplied>] gran brogit, a manera de la mayor bombarda 
+del món, lo qual brogit fou oyt per tota la ciutat de Jherusalem e per tots los altres lochs entorn bé per una leugua. Aprés d’açò, veus que dalt en la volta de la casa en la qual eren los 
+dits apòstols e la Verge Maria ab éls, aparech una gran mola de foch, lo qual foch s'a departit [<supplied reason="omitted">en</supplied>] lenguas, <del rend="strikethrough">E 
+aytantes</del>e aytantes perssones com en aquella casa havia, aytantes partides fon la dita mola del foch. E la primera lengua 
+del foch venc e devalà <pb>|<sup>43r. </sup></pb>sobra lo cos virginal de la <term type="character">Verge Maria</term>. L’altre <del rend="strikethrough">leng </del>lengua <add title="Añadido sobre la línia">de 
+foch</add> vench sobra monsènyer <term type="character">sent Pere</term>, l’altra sobre monsènyer <term type="character">sent Jhoan</term>, l’altre sobra 
+monsènyer <term type="character">sent Barthomeu</term>, e via axí arreu dels altres apòstols e dexeblas. E en aquesta manera la <term type="character">Verge Maria</term> e los 
+apòstols e dexeblas de Jhesucrist rasaberen la gràcia del Sant Sperit en [<supplied reason="hidden" title="Oculto por la encuadernación">forma</supplied>] e en semblança de lenguas de foch. Mas <del ren="strikethrough">que </del>, 
+per què en la semblança de foch? La rahó, bona gent, és aquesta: Sa [<gap reason="lost">...</gap>] que éls resaberen lo Sant Sperit en semblança de les lenguas, a 
+demostrar que éls devien parlar tots los lenguadyas del món e totes las parladures. E de <add title="Añadido sobre la línia">fet</add>, sí’s fayen, car com éls hagueren rasabut lo 
+Sant Sperit, axí com dassús havem dit, éls, qui debans no sabien parlar sinó lo lur lenguadya, e aquel ben flaquement, despuys sabien parlar e lo francès e lo català, e aragonés, e 
+alamany e totes las altras parladuras del món. Per ço diu la Sancta <del rend="strikethrough">mare sgleya</del> Scriptura, Actum I: «<cit type="bible" source="Act. 2, 3" title="2, 3">
+Et apparuerunt illis dispertite lingue seditque supra singulos eorum Spiritum Sanctum</cit>». Item, més avant diu Sancta Mare Sgleya: «<cit type="christian" 
+source="Himno de la fiesta de Pentecostés" title="Himno de la fiesta de Pentecostés">Linguis 
+[<supplied reason="hidden" title="Oculto por la encuadernación">loquuntur</supplied>] omnium turba pavent gentilium</cit>» et cetera.<br/>
+Més avant, bona gent, devets saber qe lo Sant Sperit és vengut en los apòstols en semblança de foch, car lo foch ha III gran[s] propietats:<br/>
+· Primera, que scalfa<br/>
+· Segona, il·lumina<br/>
+· Tercera, purifica.<br/>
+Dretament, bona gent: axi pròpiament lo <surplus reason="repeated">Sant</surplus> Sant Sperit ha scalfats e inflamats los apòstols e dexeblas de Jhesucrist <add title="Añadido sobre la línea">
+en la sua amor</add>, qui primerament dabans eren caucom frets e [<gap reason="lost">...</gap>]·en la 
+amor de Déu. Més avant lo Sant Sperit [<supplied reason="hidden" title="Oculto por la encuadernación">ha</supplied>] il·lominat axí com a foch los apòstols, car primerament abans éls, grossés e ignorans e de poch saber e 
+molt puruchs [<supplied reason="omitted">eren</supplied>], que no gosaven comparéixer <del type="strikethroght">devant</del> per a parlar <pb>|<sup>43v. </sup></pb> devant nagun rey ne nagun altre príncep. Mas després que éls foren il·luminats per lo Sant Sperit, éls foren los mayós doctós e [los] mayós clergues del 
+món en los sa[crets] de la sancta scriptura, e gosaren parlar devant rey e devant [prín]ceps e devant los mayós senyós del món. Item, més avant lo foch purifica, monda e deneya, 
+segons apar las fornals dels farrés e dels argenters. Axí pròpiament, bona gent, lo Sant Sperit purificà los apòstols e·ls sanctificà, que yamés d’aquí avant él[s] no pecaren mortalment. De 
+venial, emperò, no dic res.</p>
+<p>Après de tot açò diu que los ciutadans e pobla e ciutat de Jherusalem qui hagueren oÿt aquel gran brogit que daçús havem dit, stant molt meravellats e torbats: Ya açò què era? diu 
+que vingueren [<gap reason="hidden">...</gap>] en aquella casa en la qual eren los dits apòstols, en la qual aquest tan gran brogit era stat sentit, per a saber ya açò què era stat. E çus lavons diu que los apòstols sent 
+Pere, sent Jhoan, sent Iacme e los altres, veent que lo pobla era ajustat en una bela rambla que·y havia ab gran guosar e molt scalfats, isqueren de aquela casa e comansaren a preycar molt 
+ferventmen, la I en la I cap de la plaça, l’altre en l’altra e l’altra en l’altra, dient: “Molt honorables senyós, sapiats que aquest gran brogit que vosaltres havets sentit és stat lo Sant Sperit, 
+qui és vingut en lo món manifestament per a manifestar e declarar los sacrets de la Sancta Scriptura”. E diu que los apòstols en lus predicacions comensaren a parlar de totes las maneras 
+e de totes las parl[<supplied reason="hidden" title="Oculto por la encuadernación">adures</supplied>] de tots los lenguadyas del món: adés francès, <pb>|<sup>44r. </sup></pb> adés català, adés alamany, segons que lo Sant Sperit lus aministrava. Ara, ço diu: en aquesta ciutat de 
+Jherusalem, que era una de las pus famosas e de las nominades ciutads de tot lo món, e era quax cap [de totas] las províncias del món. Havia ça lavores gran moltitud e diversas 
+generacions de las gens de tot lo món. Alguns hy eren per rahó de mercaderia, altres per rahó de [...], altres tenien lur viadya, en tant que hi havia [gent] de totes las parladuras del món. 
+E diu que aquests aytals, oynt e scoltant com los apòstols en sa predicació axí parlaven pròpiament tots los lenguadyes del món, dèyen uns ab altres: “Com ssa pot fer açò, que aquests 
+hòmens qui yamés no són axits de la terra, axí pròpiament saben parlar totes las parladures del món? Scoltats, scoltats, -dien uns ab altres-, veyats aquel pro[<supplied reason="hidden" title="Oculto por la encuadernación">ho</supplied>]m sent [...], com parle 
+disertament lo aragonès. Mas veyats aquel, a sent Jhoan, com parle gentilment lo francès. Mas veyats aquel sent Barthomeu com parla notablament alamany i lo teuthònic”. E axí 
+matex dels altres, car éls staven molt meravellats.</p>
+<p>E diu que aquells malvats far[is]eus, que aquel mateix oyn, per iniquitat e anveya havien liurat nostre Salvador Jhesuchrist a mort, moguts axí matex de malícia e iniquitat, feren alta 
+veu devant tots aquells: “Bona gent, vosaltres vos penssats que aquests fols hòmens qui axí parlen sabien parlar los lenguadyas del món. Bona gent, non ho pensets que axí sia, mas 
+sabets què és: éls han ben begut de matí, he han begut de bon vi <pb>|<sup>44v. </sup></pb> blanc e varmeyl e malvasia e ara lo fum de vi puya-lus al cap en tant que él[<supplied reason="omitted">s</supplied>] són ben ambriachs e ben ajustonats, 
+e veus com parlen. A vosaltres dóna devyansa que éls sapien parlar e rahonar los lenguadyas del món”. Respongueren aquella gent strangera: “Molt honorables: si aquesta gent han begut 
+de matí ne són ambriachs, ac nosaltres no sabem. Mas per ma fe, digueren els, nosaltres som vesats de totes las partides del món. Podem fer testimoni que éls parlen aytan gentilment e 
+aytan pròpia los lenguadyas del món com dir sa puxa.</p>
+<p>Fa lavons sant Pere, qui oý dir que [eren] ambriachs, los aparlà ab gran fervor. Va-lus respondra dient: “No, no, [<gap reason="hidden">...</gap>] –dix él-, no diguets que siam 
+ambriachs, car no·u som. Encara és 
+hora de tèrcia, ne vuy encara de tot lo dia nosaltres no havem manyat ne bagut ne per consagüent, encara no som ambriachs. Mas la parladura e la sciència que nosaltres havem, és del do 
+del Sant Sperit, que nosaltres vuy havem hagut e rasabut, e donar-vos una -dix él- actoritat: Sabets bé -dix él- que lo profeta Yoel en tants capítols dix aytal paraules: «Effundam de 
+spiritum meo super omnem carnem et profetabunt filii vestri et filie vestre» et cetera. Sabets bé, dix sent Pere, que aquest profeta Yoel, parlant de aquesta sancta yornada de vuy en 
+paraula de Nostra Senyor dix: “Yo trametré del meu Sperit Sant, de la mia gràcia e de la mia amor, en hòmens e dones, e en fils vostres e en filas vostras, los quals profetaran, preycaran 
+e bonas doctrinas enssenyaran. Axò que dons vosaltres promies, dix sent Pere, per res del món no diguets que siam ambriachs, car non som, mas dix ...”.
+</p>
+</div>
+</body>
+<back></back>
+</text>
+</TEI>
