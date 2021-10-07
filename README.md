@@ -1,0 +1,4 @@
+# edismhi
+Esta página presenta una selección de sermones medievales hispanos para facilitar su lectura, divulgación y uso por parte de historiadores y del público en general.
+     Las ediciones se han hecho con la intención de adaptarse al formato digital, por lo que se alejan en ocasiones de las ediciones tradicionales: no contienen notas al pie ni aparato crítico o de fuentes. Los contenidos disponibles se pueden visualizar (y ocultar) mediante casillas de verificación (checkboxes) después de abrir la ventana "Visualización de contenidos".
+     Aunque no se ha pensado especialmente para ediciones críticas, ya que la mayoría de sermones se encuentran en ejemplares únicos, sí se puede incluir el código TEI, que permite seleccionar la lectura de la mejor opción (lem) o de los diversos manuscritos (rdg).
